@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>sn_midsetup_mid_setup</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 07:23:33</sys_created_on>
+        <sys_id>317bb2e553230300f13dddeeff7b120f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_midsetup_mid_setup</sys_name>
+        <sys_package display_value="MidSetup" source="sn_midsetup">287a3e6553230300f13dddeeff7b1210</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MidSetup">287a3e6553230300f13dddeeff7b1210</sys_scope>
+        <sys_update_name>ua_table_licensing_config_317bb2e553230300f13dddeeff7b120f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 07:23:33</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

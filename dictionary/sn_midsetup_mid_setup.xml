@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="mid_setup" max_length="40" name="sn_midsetup_mid_setup" type="collection">
+        <element label="hostname" max_length="40" name="hostname" type="string"/>
+        <element label="ip" max_length="40" name="ip" type="ip_address"/>
+    </element>
+</database>
